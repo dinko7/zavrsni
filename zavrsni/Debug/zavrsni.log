@@ -1,0 +1,14 @@
+﻿  zavrsni.cpp
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\reutility.h(30): warning C4244: 'initializing': conversion from 'ullInt' to 'clock_t', possible loss of data
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\reutility.h(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\zavrsni.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\zavrsni.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\zavrsni.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  stdafx.cpp
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\reutility.h(30): warning C4244: 'initializing': conversion from 'ullInt' to 'clock_t', possible loss of data
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\reutility.h(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  zavrsni.vcxproj -> C:\Users\Dinko\documents\visual studio 2017\Projects\zavrsni\Debug\zavrsni.exe
+  zavrsni.vcxproj -> C:\Users\Dinko\documents\visual studio 2017\Projects\zavrsni\Debug\zavrsni.pdb (Partial PDB)

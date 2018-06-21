@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\REutility.h(30): warning C4244: 'initializing': conversion from 'ullInt' to 'clock_t', possible loss of data
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\REutility.h(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zavrsni.cpp
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\REutility.h(30): warning C4244: 'initializing': conversion from 'ullInt' to 'clock_t', possible loss of data
+c:\users\dinko\documents\visual studio 2017\projects\zavrsni\zavrsni\REutility.h(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+zavrsni.cpp(33): warning C4018: '<': signed/unsigned mismatch
+zavrsni.cpp(41): warning C4018: '<': signed/unsigned mismatch
+zavrsni.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  5 of 188 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  zavrsni.vcxproj -> C:\Users\Dinko\documents\visual studio 2017\Projects\zavrsni\Release\zavrsni.exe
